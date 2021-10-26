@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "b-carte",
+    "slug": "b-carte",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "b-carte"
+}
